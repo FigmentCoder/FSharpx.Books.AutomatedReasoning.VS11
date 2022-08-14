@@ -120,6 +120,9 @@ tautology (parse_prop_formula @"(p \/ q) /\ ~(p /\ q) ==> (~p <=> q)");;
 
 // prop.p018
 (psubst ((P"p") |=> (parse_prop_formula @"p /\ q")) (parse_prop_formula @"p /\ q /\ p /\ q"));;
+//(P"p") |=> (parse_prop_formula @"p /\ q") given p map to p /\ q so you get back a function when ever p is the argument p /\ q is the result
+//psubst will take tne mapping argument and apply it each time p appears in the second argument
+//So the above will yield, val it: formula<prop> = <<(p \/ q) \/ q \/ (p \/ q) \/ q>>
 
 // pg. 43
 // ------------------------------------------------------------------------- //
