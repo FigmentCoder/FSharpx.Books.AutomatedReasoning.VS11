@@ -1,5 +1,6 @@
 Logic Programming in F#
 ===
+### My own working copy, pulled from another repository. ~ Michael Byrd
 ### Code and Examples from John Harrison's "[Handbook of Practical Logic and Automated Reasoning](https://www.cl.cam.ac.uk/~jrh13/atp/index.html)" ###
 
 
