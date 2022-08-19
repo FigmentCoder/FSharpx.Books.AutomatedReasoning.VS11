@@ -1,8 +1,8 @@
 Logic Programming in F#
 ===
-### My own working copy, pulled from another repository. ~ Michael Byrd
-### Code and Examples from John Harrison's "[Handbook of Practical Logic and Automated Reasoning](https://www.cl.cam.ac.uk/~jrh13/atp/index.html)" ###
 
+### Code and Examples from John Harrison's "[Handbook of Practical Logic and Automated Reasoning](https://www.cl.cam.ac.uk/~jrh13/atp/index.html)" ###
+### Copied from, https://github.com/jack-pappas/fsharp-logic-examples
 
 [![Build Status](https://travis-ci.org/jack-pappas/fsharp-logic-examples.png)](https://travis-ci.org/jack-pappas/fsharp-logic-examples)
 
